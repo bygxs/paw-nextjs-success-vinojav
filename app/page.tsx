@@ -13,11 +13,13 @@ export default function Home() {
           priority
         />
         |
-        <h1 className="text-lg font-medium">PWA with Next.js</h1>
+        <h1 className="text-lg font-medium">Experiententing with pwa</h1>
         |
-        <p className="opacity-80">©bygxs</p>
+        <p className="opacity-80">© @imvinojanv</p>
         |
-        <h1 className="text-lg font-medium">I am BINIIYAM</h1>
+        <h1 className="text-lg font-medium"> WA with Next.js </h1>
+
+        <p className="opacity-80">https://medium.com/@imvinojanv/the-complete-guide-to-building-progressive-web-apps-with-next-js-f37b4bb878cd</p>
         
       </div>
     </main>
