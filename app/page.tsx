@@ -15,7 +15,10 @@ export default function Home() {
         |
         <h1 className="text-lg font-medium">PWA with Next.js</h1>
         |
-        <p className="opacity-80">©imvinojanv</p>
+        <p className="opacity-80">©bygxs</p>
+        |
+        <h1 className="text-lg font-medium">I am BINIIYAM</h1>
+        
       </div>
     </main>
   );
